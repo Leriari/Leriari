@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm Charles Murage 👋
+# Hi there, I'm Tobiko Leriari 👋
 
-I am an Informatics and Computer Science student at Strathmore University and an API Development Intern at KCB Bank. I am deeply passionate about full-stack software development and financial technology integration, focusing on building secure financial transactions, API gateways, and mobile money interoperability.
+I am an Informatics and Computer Science student at Strathmore University. I am deeply passionate about full-stack software development and financial technology integration, focusing on building secure financial transactions, API gateways, and mobile money interoperability.
 
 - 🔭 **Current Focus:** Developing "WasaaLifestyle OS," a wallet and escrow payment system for unstructured mobile money payments, alongside building robust backend services in Digital Financial Services.
 - 🌱 **Learning & Exploration:** Deepening my expertise in the M-Pesa Daraja API, WSO2, T24 core banking systems, and advanced full-stack architectures.
