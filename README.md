@@ -16,7 +16,7 @@ I am deeply passionate about financial technology integration, blockchain techno
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AichaMbongo&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=leriari&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leriari&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
