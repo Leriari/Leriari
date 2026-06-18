@@ -4,12 +4,8 @@
 
 # Hi there, I'm Tobiko Leriari 👋
 
-I am an Informatics and Computer Science student at Strathmore University. I am deeply passionate about full-stack software development and financial technology integration, focusing on building secure financial transactions, API gateways, and mobile money interoperability.
-
-- 🔭 **Current Focus:** Developing "WasaaLifestyle OS," a wallet and escrow payment system for unstructured mobile money payments, alongside building robust backend services in Digital Financial Services.
-- 🌱 **Learning & Exploration:** Deepening my expertise in the M-Pesa Daraja API, WSO2, T24 core banking systems, and advanced full-stack architectures.
-- ⚡ **Core Interests:** FinTech Integration, Full-Stack Web & Mobile Development, Digital Payment Systems, and API Design & Testing.
-
+I am an Informatics and Computer Science student at Strathmore University.
+I am deeply passionate about financial technology integration, blockchain technology
 ---
 
 ## Technical Ecosystem
@@ -23,7 +19,9 @@ I am an Informatics and Computer Science student at Strathmore University. I am 
 ---
 
 ## GitHub Stats
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AichaMbongo&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leriari&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
