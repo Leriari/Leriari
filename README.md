@@ -30,16 +30,12 @@ I am an Informatics and Computer Science student at Strathmore University. I am 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charl13s&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&hide=html" alt="Top Languages" />
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charl13s&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leriari&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
 
 ---
 
-## Connect With Me
-
-- 💼 **Professional Network:** [LinkedIn Profile](Insert_Your_LinkedIn_Link_Here)
-- 📧 **Direct Contact:** [Insert_Your_Email_Here]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
